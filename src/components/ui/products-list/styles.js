@@ -1,7 +1,7 @@
 import React, { useState, useRef } from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import SwiperCore, { Navigation, Thumbs } from "swiper/core";
-import "swiper/swiper.scss";
+import "swiper/swiper.css";
 import styled from "styled-components";
 
 export const StyledSwiper = styled(Swiper)`

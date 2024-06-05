@@ -1,6 +1,6 @@
 import React, { forwardRef } from "react";
 import SwiperCore, { Scrollbar, Mousewheel } from "swiper/core";
-import "swiper/swiper.scss";
+import "swiper/swiper.css";
 import "swiper/css/scrollbar";
 import ProductCard from "/src/components/ui/product-card/product-card";
 import { StyledSwiper, StyleSlide } from "./styles";
